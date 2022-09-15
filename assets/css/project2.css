@@ -176,7 +176,7 @@ p{
     font-family: 'Poppins';
     font-weight: 500;
     font-size: 20px;
-    padding-top: 30px;
+
     text-align: center;
 }
 
@@ -196,7 +196,7 @@ p.hero-text{
     padding-top: 30px;
     margin-block-end: 15px;
     width: max-content;
-    color: rgb(37, 37, 126);
+    color : #7b7bfe;
 }
 
 .hero {
@@ -214,7 +214,7 @@ h2.h1-hero-title {
 }
 
 h2.Assets-h2{
-    color: rgb(37, 37, 126);
+    color : #7b7bfe;
     font-family: 'Poppins';
     font-size: 15px;
     padding-left: 12%;
@@ -332,7 +332,9 @@ span {
 h2.details{
     color: rgb(199, 199, 209);
     font-family: 'Poppins';
-    font-size: 15px;
+    font-size: 22px;
+    margin-top: 10px;
+    text-align: center;
 }
 
 p.details{
@@ -342,10 +344,10 @@ p.details{
 }
 
 .card a{
-    padding: 0px;
+    margin-bottom: 10px;
     display: block;
     text-align: center;
-    color: rgb(37, 37, 126);
+    color: rgb(255, 255, 255);
     font-family: 'Poppins';
     font-size: 15px;
 }
