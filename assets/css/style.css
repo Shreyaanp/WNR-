@@ -30,7 +30,7 @@ td{
 ul{
     list-style-type: none;
     padding: 0;
-    margin-left: 285px;
+    
 }
 li{
     
@@ -52,7 +52,7 @@ li a:hover{
     background: linear-gradient(225deg, #18C8FF 14.89%, #933FFE 85.85%);
     border-radius: 10px;  
     color:white;
-    margin-left:230px;
+    margin-left:540px;
     display:inline; 
     float:right;
     margin-top:20px;
